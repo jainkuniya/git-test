@@ -1,10 +1,5 @@
 header
 
-
-
-
-
-
 this is some test text
 
 middle code
